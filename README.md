@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: failing to handle potential division by zero. The `bug.swift` file shows the erroneous code, while `bugSolution.swift` provides a corrected version using a `guard` statement to prevent the error.
